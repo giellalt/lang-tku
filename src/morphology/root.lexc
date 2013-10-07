@@ -50,8 +50,6 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 +Ind  !!= * @CODE@ 
 +Imp  !!= * @CODE@ Imperative
-!+Sbj  !!= * @CODE@ Subjunctive
-!+Imm  !!= * @CODE@ Immediate,
 +Opt  !!= * @CODE@ Optative,
 +Irr  !!= * @CODE@ Irrealis,
 
@@ -154,9 +152,9 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 LEXICON Root 		 !!=  @CODE@ is where it all starts
 
-!Noun ;	             !!= * @CODE@ 
+!Noun ;	            
 Verb ;	             !!= * @CODE@ 
-!Pronoun ;            !!= * @CODE@ 
+!Pronoun ;       
 Punctuation ;        !!= * @CODE@ 
 !Particles ;
 
