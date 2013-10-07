@@ -1,25 +1,23 @@
 Alphabet
+
  a b c d e f g h i j k l m n o p q r s t u v w x y z
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
- â ê î ô
- Â Ê Î Ô
- 
- t2:0
- %>:0 
- %^LC:0 ! Locative suffix alternation trigger
- 
+ á é ó í ú ! Stress
+ Á É Ó Í Ú
+ ː ! Vowel length
+ ˈ ! Uvular vowels
+  
+ %>:0 ! suffix border
 
  ;
 
 Sets
 
- Vow = a e i o u â ê î ô 
-       A E I O U Â Ê Î Ô ;
+ Vow = a e i o u á é í ó ú
+       A E I O U Á É Í Ó Ú  
+       ː ˈ ;
 
- LongVow = â ê î ô Â Ê Î Ô ;
- 
- Cns = b c d f g h j k l m n p q r s t v w x z ;
- 
+ Cns = b c d f g h j k l m n p q r s t v w x z ; 
  Nas = m n ;
  NonNas = b c d f g h j k l p q r s t v w x z ;
 
@@ -31,9 +29,9 @@ Sets
 Rules
 
 "Dummy rule"
-!! __@RULENAME@__ gives maskwa + ak = plural maskwak
+!! __@RULENAME@__ to be deleted
  Vx:0 <=> _ %>:0 :Vow ;
- 	where Vx in ( a e i o â ê î ô ) ;
+ 	where Vx in ( a e i o u ) ;
 
 
  
