@@ -1,67 +1,121 @@
-!!!Free and Open source Finnish analyser gtsvn-fi
+!!!Free and Open source Upper Necaxa Totanac analyser gtsvn-tku
 
-;Authors: Divvun and Giellatekno teams, Aajege, community members
+;Authors: Divvun and Giellatekno teams, University of Alberta, community members
 ;Software version: 2012
 ;Documentation license: GNU GFDL
 ;SVN Revision: $Revision: 68217 $
 ;SVN Date: $Date: 2013-01-16 11:31:33 +0200 (Wed, 16 Jan 2013) $
 
-!!!GTSVN-sma
+!!!GTSVN-tku
 
-This is free and open source South Sámi morphology.
+This is free and open source Upper Necaxa Totanac morphology.
 
-           !!!Upper Necaxa Totonac morphological analyser                      !
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Upper Necaxa Totonac LANGUAGE.
+           !!!Upper Necaxa Totonac morphological analyser                      
+INTRODUCTION TO THE MORPHOLOGICAL ANALYSER OF Upper Necaxa Totonac.
+
 
 
  !!!Multichar_Symbols definitions
 
 !!Analysis symbols
-----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
+
+The morphological analyses of wordforms of Plains Cree are presented
 in this system in terms of following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-The parts-of-speech are:
+POS
 
-The parts of speech are further split up into:
+ * +N	         
+ * +V	         
+ * +A	         
 
-The Usage extents are marked using following tags:
+ * +Adv         
+ * +CC	         
+ * +CS	         
+ * +Interj      
+ * +Pron        
+ * +Num         
 
-The nominals are inflected in the following Case and Number
+ * +Loc         
 
-The possession is marked as such:
-The comparative forms are:
-Numerals are classified under:
-Verb moods are:
-Verb personal forms are:
-Other verb forms are
+Verbal MSP
+ * +Prs   
+ * +Fut   
+ * +Prt   
+ * +Prf   
 
-Special symbols are classified with:
-The verbs are syntactically split according to transitivity:
-Special multiword units are analysed with:
-Non-dictionary words can be recognised with:
+ * +Ind   
+ * +Imp   Imperative
+ * +Opt   Optative,
+ * +Irr   Irrealis,
 
-Question and Focus particles:
+ * +Int   Interdiction,
+ * +Dur   Durative
+
+ * +1Sg     first singular
+ * +2Sg     etc
+ * +3Sg    
+ * +3oSg    3o is obviative,
+ * +3iSg    3i is indefinite
+
+ * +1Pl     1Pl is exclusive plural (I, them, not you)
+ * +2Pl    
+ * +3Pl    
+ * +3oPl   
+ * +3iPl   
+ * +12Pl    12Pl is inclusive plural (I, you, ...)
+
+ * +1SgO    objective conjugation
+ * +2SgO   
+ * +3SgO   
+ * +SgO    
+ * +3oSgO   obviative with objective conjugation
+ * +3iSgO  
+ * +1PlO   
+ * +P2lO   
+ * +3PlO   
+ * +PlO    
+ * +3oPlO  
+ * +3iPlO  
+
+ * +Inf     infinitive (infinite?)
+ * +Pos     postitive
+ * +Neg     negative
+ * +ConNeg  accompanying negative form
+
+Nominal MSP
+ * +Sg		  singular
+ * +Pl		  plural
+
+ * +Px1Sg	  person prefixes for nouns
+ * +Px2Sg	 
+ * +Px3Sg	 
+ * +Px1Pl	  obviative
+ * +Px12Pl	  inclusive
+ * +Px2Pl	 
+ * +Px3Pl	 
 
 
-Semantics are classified with
+ * %> 		  suffix border
 
 
-Derivations are classified under the morphophonetic form of the suffix, the
-source and target part-of-speech.
+ * +Use/Sub  tag for substandard forms
 
 
-Morphophonology
----------------
-To represent phonologic variations in word forms we use the following
-symbols in the lexicon files:
 
-And following triggers to control variation
 
-We have manually optimised the structure of our lexicon using following
-flag diacritics to restrict morhpological combinatorics:
+Flagdiacritics 
 
-The word forms in UNDEFINED language start from the lexeme roots of basic
-word classes, or optionally from prefixes:
+These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
+
+
+
+
+
+
+
+  LEXICON Root 		  is where it all starts
+
+ * Verb ;	              
+ * Punctuation ;         
 
