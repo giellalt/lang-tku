@@ -1,32 +1,39 @@
-!! =================================== !
-!! The Upper Necaxa Totonac morphophonological/twolc rules file !
-!! =================================== !
-
 Alphabet
- a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç
+ a b c d e f g h i j k l m n o p q r s t u v w x y z
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+ â ê î ô
+ Â Ê Î Ô
+ 
+ t2:0
+ %>:0 
+ %^LC:0 ! Locative suffix alternation trigger
+ 
 
- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
- Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
-
- %>:0 ;
+ ;
 
 Sets
 
- Vow = a e i o u y æ ø å 
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;
- Cns = b c d f g h j k l m n p q r s t v w x z ð þ ;
+ Vow = a e i o u â ê î ô 
+       A E I O U Â Ê Î Ô ;
+
+ LongVow = â ê î ô Â Ê Î Ô ;
  
+ Cns = b c d f g h j k l m n p q r s t v w x z ;
+ 
+ Nas = m n ;
+ NonNas = b c d f g h j k l p q r s t v w x z ;
+
+ Dummy = %> ;
+
+
+!! !!!Rules
+
 Rules
 
-"Deleting stem-final s in s genitive"
- s:0 <=> Vow s %>: _ ;
+"Dummy rule"
+!! __@RULENAME@__ gives maskwa + ak = plural maskwak
+ Vx:0 <=> _ %>:0 :Vow ;
+ 	where Vx in ( a e i o â ê î ô ) ;
 
-!€ primus%>s
-!€ primus00
 
-!€grís%>s
-!€grís00
-
-!$grís%>s
-!$grís0s
+ 
