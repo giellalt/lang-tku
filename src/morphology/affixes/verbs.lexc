@@ -1,16 +1,32 @@
-!! Verb inflection
-!! ---------------
-!! The UNDEFINED language verbs inflect in persons.
 
-LEXICON Persons
-+V+1sg:en   #   ;
-+V+2sg:et   #   ;
-+V+3sg:e    #   ;
-+V+1pl:ien  #   ;
-+V+2pl:iet  #   ;
-+V+3pl:iet  #   ;
-+V+inf:0    #   ;
-#:0   Nouns   ;
+! ========================================================================== !
+!!                           !!! Totonac verb morphology                           
+! ========================================================================== !
 
-! vim: set ft=xfst-lexc:
+
+!! !!! Intransitive animate (IA)
+
+LEXICON ind !!= @CODE@ splits in 3 conjugations
++V+Ind+Prs: present ;
+
+LEXICON present !!= @CODE@ gives person suffixes
+<  "+1Sg":0 "@U.verb.1sgindep@"  > # ; !"
+<  "+2Sg":0 "@U.verb.2sgindep@"  > 2sgsuf ; !"
+<  "+3Sg":0 "@U.verb.3sgindep@"  > # ; !"
+<  "+1Pl":0 "@U.verb.1plindep@"  > 1plsuf ;  ! excl Pl
+< "+12Pl":0 "@U.verb.12plindep@" > 1plsuf ;  ! incl Pl
+<  "+2Pl":0 "@U.verb.2plindep@"  > 2plsuf ; !"
+<  "+3Pl":0 "@U.verb.3plindep@"  > # ;
+
+
+LEXICON 2sgsuf
+:yaˈ # ;
+
+LEXICON 1plsuf
+:yáːuj # ;
+
+LEXICON 2plsuf
+:yáːˈtít # ;
+
+
 

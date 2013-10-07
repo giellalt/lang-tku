@@ -1,8 +1,24 @@
-!! Verbs
-!! -----
-!! Verbs in UNDEFINED language are actions.
 
-LEXICON Verbs
-verb    Persons   ;
+! ========================================================================== !
+!!                           !!! Totanac verb stems                           
+! ========================================================================== !
 
-! vim: set ft=xfst-lexc:
+
+
+LEXICON Verb
+Indicative ;
+
+
+LEXICON Indicative
+
+< 0:i          "@U.verb.1sgindep@" > IASTEM ; !"
+<              "@U.verb.2sgindep@"  > IASTEM ;
+<              "@U.verb.3sgindep@"  > IASTEM ;      
+< 0:i 0:ˈ 0:k "@U.verb.1plindep@" > IASTEM ;  ! exclusive Pl
+<              "@U.verb.12plindep@" > IASTEM ; !"
+<              "@U.verb.2plindep@"  > IASTEM ;
+< 0:t 0:a      "@U.verb.3plindep@" > IASTEM ;
+
+
+LEXICON IASTEM
+taxtú ind ;
