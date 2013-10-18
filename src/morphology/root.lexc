@@ -56,6 +56,11 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 +Int  !!= * @CODE@ Interdiction,
 +Dur  !!= * @CODE@ Durative
 
++Impf  !!= * @CODE@ Imperfective
++Pfv   !!= * @CODE@ Perfective
++Prog   !!= * @CODE@ Progressive
+
+
 +1Sg    !!= * @CODE@ first singular
 +2Sg    !!= * @CODE@ etc
 +3Sg    !!= * @CODE@
