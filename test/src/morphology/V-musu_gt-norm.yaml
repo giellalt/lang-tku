@@ -1,0 +1,168 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+  
+  Verb - muˈsú: kiss: # Ordinary verb - full paradigm
+     muˈsúː+V+Ind+Impf+1Sg+2SgO: iˈkmuˈsuːyán
+     muˈsúː+V+Ind+Impf+1Sg+3SgO: iˈkmuˈsúː
+     muˈsúː+V+Ind+Impf+2Sg+1SgO: kimuˈsúːyaˈ
+     muˈsúː+V+Ind+Impf+2Sg+3SgO: muˈsúːyaˈ
+     muˈsúː+V+Ind+Impf+3Sg+1SgO: kimuˈsúː
+     muˈsúː+V+Ind+Impf+3Sg+2SgO: muˈsúːyáːn
+     muˈsúː+V+Ind+Impf+3Sg+3SgO: muˈsúː
+     muˈsúː+V+Ind+Impf+1Pl+2SgO: iˈkaːmuˈsuːyáːn
+     muˈsúː+V+Ind+Impf+1Pl+3SgO: iˈkmuˈsuːyáːuj
+     muˈsúː+V+Ind+Impf+12Pl+3SgO: muˈsúːyáːuj
+     muˈsúː+V+Ind+Impf+2Pl+1SgO: kilaːmuˈsuːyáːuj
+     muˈsúː+V+Ind+Impf+2Pl+3SgO: muˈsúːyáːˈtít
+     muˈsúː+V+Ind+Impf+3Pl+1SgO: kintamuˈsúː
+     muˈsúː+V+Ind+Impf+3Pl+2SgO: tamuˈsúːyáːn
+     muˈsúː+V+Ind+Impf+3Pl+3SgO: tamuˈsúː
+
+     muˈsúː+V+Ind+Impf+1Sg+2PlO: iˈkaːmuˈsuːyán
+     muˈsúː+V+Ind+Impf+1Sg+3PlO: iˈkaːmuˈsúː
+     muˈsúː+V+Ind+Impf+2Sg+1PlO: kilaːmuˈsúːyaˈ
+     muˈsúː+V+Ind+Impf+2Sg+3PlO: kaːmuˈsúːyaˈ
+     muˈsúː+V+Ind+Impf+3Sg+1PlO: kinkaːmuˈsúːyáːn
+     muˈsúː+V+Ind+Impf+3Sg+2PlO: kaːmuˈsúːyáːn
+     muˈsúː+V+Ind+Impf+3Sg+3PlO: kaːmuˈsúː
+     muˈsúː+V+Ind+Impf+1Pl+2PlO: iˈkaːmuˈsuːyáːn
+     muˈsúː+V+Ind+Impf+1Pl+3PlO: iˈkmuˈsuːyáːuj
+     muˈsúː+V+Ind+Impf+12Pl+3PlO: muˈsúːyáːuj
+     muˈsúː+V+Ind+Impf+2Pl+1PlO: kilaːmuˈsuːyáːuj
+     muˈsúː+V+Ind+Impf+2Pl+3PlO: muˈsúːyáːˈtít
+     muˈsúː+V+Ind+Impf+3Pl+1PlO: kintamuˈsúː
+     muˈsúː+V+Ind+Impf+3Pl+2PlO: tamuˈsúːyáːn
+     muˈsúː+V+Ind+Impf+3Pl+3PlO: tamuˈsúː
+
+     muˈsúː+V+Ind+Pfv+1Sg+2SgO: iˈkmuˈsuːn
+     muˈsúː+V+Ind+Pfv+1Sg+3SgO: iˈkmuˈsúːlh
+     muˈsúː+V+Ind+Pfv+2Sg+1SgO: kimuˈsúːˈ
+     muˈsúː+V+Ind+Pfv+2Sg+3SgO: muˈsúːˈ
+     muˈsúː+V+Ind+Pfv+3Sg+1SgO: kimuˈsúːlh
+     muˈsúː+V+Ind+Pfv+3Sg+2SgO: muˈsúːn
+     muˈsúː+V+Ind+Pfv+3Sg+3SgO: muˈsúːlh
+     muˈsúː+V+Ind+Pfv+1Pl+2SgO: iˈkaːmuˈsuːn
+     muˈsúː+V+Ind+Pfv+1Pl+3SgO: iˈkmuˈsúːj
+     muˈsúː+V+Ind+Pfv+12Pl+3SgO: muˈsúːyáːuj
+     muˈsúː+V+Ind+Pfv+2Pl+1SgO: kilaːmuˈsuːj
+     muˈsúː+V+Ind+Pfv+2Pl+3SgO: muˈsúːtít
+     muˈsúː+V+Ind+Pfv+3Pl+1SgO: kintamuˈsúːlh
+     muˈsúː+V+Ind+Pfv+3Pl+2SgO: tamuˈsúːn
+     muˈsúː+V+Ind+Pfv+3Pl+3SgO: tamuˈsúːlh
+
+     muˈsúː+V+Ind+Pfv+1Sg+2PlO: iˈkaːmuˈsuːn
+     muˈsúː+V+Ind+Pfv+1Sg+3PlO: iˈkaːmuˈsúːlh
+     muˈsúː+V+Ind+Pfv+2Sg+1PlO: kilaːmuˈsúːj
+     muˈsúː+V+Ind+Pfv+2Sg+3PlO: kaːmuˈsúːˈ
+     muˈsúː+V+Ind+Pfv+3Sg+1PlO: kinkaːmuˈsúːn
+     muˈsúː+V+Ind+Pfv+3Sg+2PlO: kaːmuˈsúːn
+     muˈsúː+V+Ind+Pfv+3Sg+3PlO: kaːmuˈsúːlh
+     muˈsúː+V+Ind+Pfv+1Pl+2PlO: iˈkaːmuˈsuːn
+     muˈsúː+V+Ind+Pfv+1Pl+3PlO: iˈkaːmuˈsúːj
+     muˈsúː+V+Ind+Pfv+12Pl+3PlO: kaːmuˈsúːj
+     muˈsúː+V+Ind+Pfv+2Pl+1PlO: kilaːmuˈsúːj
+     muˈsúː+V+Ind+Pfv+2Pl+3PlO: kaːmuˈsúːtít
+     muˈsúː+V+Ind+Pfv+3Pl+1PlO: kinkaːtamuˈsúːn
+     muˈsúː+V+Ind+Pfv+3Pl+2PlO: kaːtamuˈsúːn
+     muˈsúː+V+Ind+Pfv+3Pl+3PlO: tamuˈsúːlh
+
+     muˈsúː+V+Ind+Prog+1Sg+2SgO: iˈkmuˈsuːmáːn
+     muˈsúː+V+Ind+Prog+1Sg+3SgO: iˈkmuˈsuːmáːlh
+     muˈsúː+V+Ind+Prog+2Sg+1SgO: kimuˈsuːpáːˈ
+     muˈsúː+V+Ind+Prog+2Sg+3SgO: muˈsuːpáːˈ
+     muˈsúː+V+Ind+Prog+3Sg+1SgO: kimuˈsuːmáːlh
+     muˈsúː+V+Ind+Prog+3Sg+2SgO: muˈsuːmáːn
+     muˈsúː+V+Ind+Prog+3Sg+3SgO: muˈsuːmáːlh
+     muˈsúː+V+Ind+Prog+1Pl+2SgO: iˈkaːmuˈsuːmáːn
+     muˈsúː+V+Ind+Prog+1Pl+3SgO: iˈkmuˈsuːmaːˈnáuj
+     muˈsúː+V+Ind+Prog+12Pl+3SgO: muˈsuːmaːnáuj
+     muˈsúː+V+Ind+Prog+2Pl+1SgO: kilaːmuˈsuːmaːˈnáuj
+     muˈsúː+V+Ind+Prog+2Pl+3SgO: muˈsuːpáːˈnaˈntít
+     muˈsúː+V+Ind+Prog+3Pl+1SgO: kintamuˈsuːmaːˈnálh
+     muˈsúː+V+Ind+Prog+3Pl+2SgO: tamuˈsuːmaːnán
+     muˈsúː+V+Ind+Prog+3Pl+3SgO: tamuˈsuːmaːˈnálh
+
+     muˈsúː+V+Ind+Prog+1Sg+2PlO: iˈkamuˈsuːmáːn
+     muˈsúː+V+Ind+Prog+1Sg+3PlO: iˈkamuˈsuːmáːlh
+     muˈsúː+V+Ind+Prog+2Sg+1PlO: kilamuˈsuːmaːˈnáuj
+     muˈsúː+V+Ind+Prog+2Sg+3PlO: kamuˈsuːpáːˈ
+     muˈsúː+V+Ind+Prog+3Sg+1PlO: kinkamuˈsuːmáːnán
+     muˈsúː+V+Ind+Prog+3Sg+2PlO: kamuˈsuːmáːn
+     muˈsúː+V+Ind+Prog+3Sg+3PlO: kamuˈsuːmáːlh
+     muˈsúː+V+Ind+Prog+1Pl+2PlO: iˈkaːmuˈsuːmáːn
+     muˈsúː+V+Ind+Prog+1Pl+3PlO: iˈkamuˈsuːmaːˈnáuj
+     muˈsúː+V+Ind+Prog+12Pl+3PlO: kaːmuˈsuːmaːnáuj
+     muˈsúː+V+Ind+Prog+2Pl+1PlO: kilaːmuˈsuːmaːˈnáuj
+     muˈsúː+V+Ind+Prog+2Pl+3PlO: kaːmuˈsuːpáːˈnaˈntít
+     muˈsúː+V+Ind+Prog+3Pl+1PlO: kinkatamuˈsuːmaːˈnán
+     muˈsúː+V+Ind+Prog+3Pl+2PlO: kaːtamuˈsuːmaːˈnán
+     muˈsúː+V+Ind+Prog+3Pl+3PlO: tamuˈsuːmaːˈnálh
+
+
+
+
+
+
+
+
+
+
+     
+#     muˈsúː+V+Ind+Prt+1Sg: xaˈkmuˈsúː
+#     muˈsúː+V+Ind+Prt+2Sg: iˈxmuˈsúːyaˈ
+#     muˈsúː+V+Ind+Prt+3Sg: ixmuˈsúː
+#     muˈsúː+V+Ind+Prt+1Pl: xaˈktaxtuyáːuj
+#     muˈsúː+V+Ind+Prt+12Pl: iˈxtaxtuyáːuj
+#     muˈsúː+V+Ind+Prt+2Pl: iˈxtaxtuyaːˈtít
+#     muˈsúː+V+Ind+Prt+3Pl: iˈxtamuˈsúː
+#     
+#     muˈsúː+V+Ind+Fut+1Sg: naˈkmuˈsúː
+#     muˈsúː+V+Ind+Fut+2Sg: namuˈsúːyaˈ
+#     muˈsúː+V+Ind+Fut+3Sg: namuˈsúː
+#     muˈsúː+V+Ind+Fut+1Pl: naˈktaxtuyáːuj
+#     muˈsúː+V+Ind+Fut+12Pl: nataxtuyáːuj
+#     muˈsúː+V+Ind+Fut+2Pl: nataxtuyaːˈtít
+#     muˈsúː+V+Ind+Fut+3Pl: natamuˈsúː
+#
+#     muˈsúː+V+Opt+1Sg: kaˈmuˈsúː
+#     muˈsúː+V+Opt+2Sg: kamuˈsúːyaˈ
+#     muˈsúː+V+Opt+3Sg: kamuˈsúː
+#     muˈsúː+V+Opt+1Pl: kaˈktaxtuyáːuj
+#     muˈsúː+V+Opt+12Pl: kamuˈsúːyáːuj
+#     muˈsúː+V+Opt+2Pl: kamuˈsúːyáːˈtít
+#     muˈsúː+V+Opt+3Pl: katamuˈsúː
+#     
+#     muˈsúː+V+Pot+1Sg: iˈktiˈmuˈsúː
+#     muˈsúː+V+Pot+2Sg: tiˈmuˈsúːyaˈ
+#     muˈsúː+V+Pot+3Sg: tiˈmuˈsúː
+#     muˈsúː+V+Pot+1Pl: iˈktiˈtaxtuyáːuj
+#     muˈsúː+V+Pot+12Pl: tiˈmuˈsúːyáːuj
+#     muˈsúː+V+Pot+2Pl: tiˈmuˈsúːyáːˈtít
+#     muˈsúː+V+Pot+3Pl: tiˈtamuˈsúː
+#     
+#     muˈsúː+V+Irr+1Sg: xaˈkmuˈsúːlh
+#     muˈsúː+V+Irr+2Sg: iˈxtáxtuˈ
+#     muˈsúː+V+Irr+3Sg: iˈxmuˈsúːlh
+#     muˈsúː+V+Irr+1Pl: xaˈkmuˈsúːj
+#     muˈsúː+V+Irr+12Pl: iˈxmuˈsúːj
+#     muˈsúː+V+Irr+2Pl: iˈxtaxtuˈtít
+#     muˈsúː+V+Irr+3Pl: iˈxtamuˈsúːlh
+#     
+#     muˈsúː+V+Ind+Imp+1Sg: imuˈsúː
+#     muˈsúː+V+Ind+Imp+2Sg: muˈsúːyaˈ
+#     muˈsúː+V+Ind+Imp+3Sg: muˈsúː
+#     muˈsúː+V+Ind+Imp+1Pl: iˈktaxtuyáːuj
+#     muˈsúː+V+Ind+Imp+12Pl: muˈsúːyáːuj
+#     muˈsúː+V+Ind+Imp+2Pl: muˈsúːyáːˈtít
+#     muˈsúː+V+Ind+Imp+3Pl: tamuˈsúː
+     
+
+
