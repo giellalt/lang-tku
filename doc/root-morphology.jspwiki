@@ -41,6 +41,11 @@ Verbal MSP
  * +Int   Interdiction,
  * +Dur   Durative
 
+ * +Impf   Imperfective
+ * +Pfv    Perfective
+ * +Prog    Progressive
+
+
  * +1Sg     first singular
  * +2Sg     etc
  * +3Sg    
