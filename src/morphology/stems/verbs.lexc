@@ -6,19 +6,34 @@
 
 
 LEXICON Verb
-Indicative ;
+IndicativeIA ;
+IndicativeTA ;
 
-
-LEXICON Indicative
+LEXICON IndicativeIA
 
 < 0:i          "@U.verb.1sgindep@" > IASTEM ; !"
-<              "@U.verb.2sgindep@"  > IASTEM ;
-<              "@U.verb.3sgindep@"  > IASTEM ;      
-< 0:i 0:ˈ 0:k "@U.verb.1plindep@" > IASTEM ;  ! exclusive Pl
+<              "@U.verb.2sgindep@"  > IASTEM ; !"
+<              "@U.verb.3sgindep@"  > IASTEM ;  !"    
+< 0:i 0:ˈ 0:k "@U.verb.1plindep@" > IASTEM ;  !" exclusive Pl
 <              "@U.verb.12plindep@" > IASTEM ; !"
-<              "@U.verb.2plindep@"  > IASTEM ;
-< 0:t 0:a      "@U.verb.3plindep@" > IASTEM ;
+<              "@U.verb.2plindep@"  > IASTEM ; !"
+< 0:t 0:a      "@U.verb.3plindep@" > IASTEM ; !"
+
+LEXICON IndicativeTA
+
+<  0:i 0:ˈ 0:k     "@U.verb.1sgosgindep@" > TASTEM ; !"
+<  0:i 0:ˈ 0:k 0:a "@U.verb.1sgoplindep@" > TASTEM ; !"
+<  0:k 0:i         "@U.verb.2sg1sgindep@"  > TASTEM ; !"
+<                  "@U.verb.2sg3sgindep@"  > TASTEM ;
+!<              "@U.verb.3sgoindep@"  > TASTEM ;      
+!< 0:i 0:ˈ 0:k "@U.verb.1ploindep@" > TASTEM ;  ! exclusive Pl
+!<              "@U.verb.12ploindep@" > TASTEM ; !"
+!<              "@U.verb.2ploindep@"  > TASTEM ;
+!< 0:t 0:a      "@U.verb.3ploindep@" > TASTEM ;
 
 
 LEXICON IASTEM
 taxtú ind ;
+
+LEXICON TASTEM
+muˈsúː transind ;

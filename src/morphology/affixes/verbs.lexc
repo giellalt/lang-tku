@@ -6,7 +6,7 @@
 
 !! !!! Intransitive animate (IA)
 
-LEXICON ind !!= @CODE@ splits in 3 conjugations
+LEXICON iind !!= @CODE@ splits in 3 conjugations
 +V+Ind+Prs: present ;
 
 LEXICON present !!= @CODE@ gives person suffixes
@@ -30,3 +30,31 @@ LEXICON 2plsuf
 
 
 
+
+LEXICON transind !!= @CODE@ is not done yet
++V+Ind+Impf: impf_oc ;
+
+
+LEXICON impf_oc
+<  "+1Sg":0 "+2SgO":0 "@U.verb.1sgosgindep@"  > yaansuf ; !"
+<  "+1Sg":0 "+3SgO":0 "@U.verb.1sgosgindep@"  > # ; !"
+<  "+1Sg":0 "+2PlO":0 "@U.verb.1sgoplindep@"  > yaansuf ; !"
+<  "+1Sg":0 "+3PlO":0 "@U.verb.1sgoplindep@"  > # ; !"
+<  "+2Sg":0 "+1SgO":0 "@U.verb.2sg1sgindep@"  > yaqsuf ; !"
+<  "+2Sg":0 "+3SgO":0 "@U.verb.2sg3sgindep@"  > yaqsuf ; !"
+
+!<  "+2Sg":0 "+1PlO":0 "@U.verb.2sgindep@"  > 2sgsuf ; !"
+!<  "+2Sg":0 "+3PlO":0 "@U.verb.2sgindep@"  > 2sgsuf ; !"
+
+!<  "+3Sg":0 "+2SgO":0 "@U.verb.3sgindep@"  > # ; !"
+!<  "+1Pl":0 "+2SgO":0 "@U.verb.1plindep@"  > 1plsuf ;  ! excl Pl
+!< "+12Pl":0 "+2SgO":0 "@U.verb.12plindep@" > 1plsuf ;  ! incl Pl
+!<  "+2Pl":0 "+2SgO":0 "@U.verb.2plindep@"  > 2plsuf ; !"
+!<  "+3Pl":0 "+2SgO":0 "@U.verb.3plindep@"  > # ;
+
+
+LEXICON yaansuf
+:yán # ;
+
+LEXICON yaqsuf
+:yaˈ # ;
