@@ -11,13 +11,13 @@ IndicativeT ;
 
 LEXICON IndicativeI
 
-< 0:i          "@U.verb.1sgindep@" > ISTEM ; !"
-<              "@U.verb.2sgindep@"  > ISTEM ; !"
-<              "@U.verb.3sgindep@"  > ISTEM ;  !"    
+< 0:i 0:ˈ 0:k "@U.verb.1sgindep@" > ISTEM ; !"
+<             "@U.verb.2sgindep@" > ISTEM ; !"
+<             "@U.verb.3sgindep@" > ISTEM ;  !"    
 < 0:i 0:ˈ 0:k "@U.verb.1plindep@" > ISTEM ;  !" exclusive Pl
-<              "@U.verb.12plindep@" > ISTEM ; !"
-<              "@U.verb.2plindep@"  > ISTEM ; !"
-< 0:t 0:a      "@U.verb.3plindep@" > ISTEM ; !"
+<             "@U.verb.12plindep@" > ISTEM ; !"
+<             "@U.verb.2plindep@" > ISTEM ; !"
+< 0:t 0:a     "@U.verb.3plindep@" > ISTEM ; !"
 
 LEXICON IndicativeT
 
@@ -33,7 +33,7 @@ LEXICON IndicativeT
 
 
 LEXICON ISTEM
-taxtú:taxtú ind ;
+taxtú:taxtú iind ;
 
 LEXICON TSTEM
 muˈsúː transind ;
