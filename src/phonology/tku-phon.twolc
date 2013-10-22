@@ -29,7 +29,7 @@ Sets
 
 Rules
 "U Stress Rule"
- ú:u <=> _ Cns* %>: StressedVowel
+ú:u <=> _ Cns* %>: StressedVowel ;
 
 "Dummy rule"
 !! __@RULENAME@__ to be deleted
