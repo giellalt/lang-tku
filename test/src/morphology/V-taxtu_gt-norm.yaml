@@ -10,29 +10,29 @@ Config:
 Tests:
   
   Verb - taxtú leave: # Ordinary verb - full paradigm
-     taxtú+V+Ind+Prs+1Sg: itaxtú
-     taxtú+V+Ind+Prs+2Sg: taxtúyaˈ
-     taxtú+V+Ind+Prs+3Sg: taxtú
-     taxtú+V+Ind+Prs+1Pl: iˈktaxtuyáːuj
-     taxtú+V+Ind+Prs+12Pl: taxtúyáːuj
-     taxtú+V+Ind+Prs+2Pl: taxtúyáːˈtít
-     taxtú+V+Ind+Prs+3Pl: tataxtú
+     taxtú+V+Ind+Impf+Prs+1Sg: iˈktaxtú
+     taxtú+V+Ind+Impf+Prs+2Sg: taxtúyaˈ
+     taxtú+V+Ind+Impf+Prs+3Sg: taxtú
+     taxtú+V+Ind+Impf+Prs+1Pl: iˈktaxtuyáːuj
+     taxtú+V+Ind+Impf+Prs+12Pl: taxtúyáːuj
+     taxtú+V+Ind+Impf+Prs+2Pl: taxtúyáːˈtít
+     taxtú+V+Ind+Impf+Prs+3Pl: tataxtú
      
-     taxtú+V+Ind+Prt+1Sg: xaˈktaxtú
-     taxtú+V+Ind+Prt+2Sg: iˈxtaxtúyaˈ
-     taxtú+V+Ind+Prt+3Sg: ixtaxtú
-     taxtú+V+Ind+Prt+1Pl: xaˈktaxtuyáːuj
-     taxtú+V+Ind+Prt+12Pl: iˈxtaxtuyáːuj
-     taxtú+V+Ind+Prt+2Pl: iˈxtaxtuyaːˈtít
-     taxtú+V+Ind+Prt+3Pl: iˈxtataxtú
+     taxtú+V+Ind+Impf+Prt+1Sg: xaˈktaxtú
+     taxtú+V+Ind+Impf+Prt+2Sg: iˈxtaxtúyaˈ
+     taxtú+V+Ind+Impf+Prt+3Sg: ixtaxtú
+     taxtú+V+Ind+Impf+Prt+1Pl: xaˈktaxtuyáːuj
+     taxtú+V+Ind+Impf+Prt+12Pl: iˈxtaxtuyáːuj
+     taxtú+V+Ind+Impf+Prt+2Pl: iˈxtaxtuyaːˈtít
+     taxtú+V+Ind+Impf+Prt+3Pl: iˈxtataxtú
      
-     taxtú+V+Ind+Fut+1Sg: naˈktaxtú
-     taxtú+V+Ind+Fut+2Sg: nataxtúyaˈ
-     taxtú+V+Ind+Fut+3Sg: nataxtú
-     taxtú+V+Ind+Fut+1Pl: naˈktaxtuyáːuj
-     taxtú+V+Ind+Fut+12Pl: nataxtuyáːuj
-     taxtú+V+Ind+Fut+2Pl: nataxtuyaːˈtít
-     taxtú+V+Ind+Fut+3Pl: natataxtú
+     taxtú+V+Ind+Impf+Fut+1Sg: naˈktaxtú
+     taxtú+V+Ind+Impf+Fut+2Sg: nataxtúyaˈ
+     taxtú+V+Ind+Impf+Fut+3Sg: nataxtú
+     taxtú+V+Ind+Impf+Fut+1Pl: naˈktaxtuyáːuj
+     taxtú+V+Ind+Impf+Fut+12Pl: nataxtuyáːuj
+     taxtú+V+Ind+Impf+Fut+2Pl: nataxtuyaːˈtít
+     taxtú+V+Ind+Impf+Fut+3Pl: natataxtú
 
      taxtú+V+Opt+1Sg: kaˈtaxtú
      taxtú+V+Opt+2Sg: kataxtúyaˈ
