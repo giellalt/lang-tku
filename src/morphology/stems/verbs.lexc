@@ -6,34 +6,41 @@
 
 
 LEXICON Verb
-IndicativeIA ;
-IndicativeTA ;
+IndicativeI ;
+IndicativeT ;
 
-LEXICON IndicativeIA
+LEXICON IndicativeI
 
-< 0:i          "@U.verb.1sgindep@" > IASTEM ; !"
-<              "@U.verb.2sgindep@"  > IASTEM ; !"
-<              "@U.verb.3sgindep@"  > IASTEM ;  !"    
-< 0:i 0:ˈ 0:k "@U.verb.1plindep@" > IASTEM ;  !" exclusive Pl
-<              "@U.verb.12plindep@" > IASTEM ; !"
-<              "@U.verb.2plindep@"  > IASTEM ; !"
-< 0:t 0:a      "@U.verb.3plindep@" > IASTEM ; !"
+< 0:i          "@U.verb.1sgindep@" > ISTEM ; !"
+<              "@U.verb.2sgindep@"  > ISTEM ; !"
+<              "@U.verb.3sgindep@"  > ISTEM ;  !"    
+< 0:i 0:ˈ 0:k "@U.verb.1plindep@" > ISTEM ;  !" exclusive Pl
+<              "@U.verb.12plindep@" > ISTEM ; !"
+<              "@U.verb.2plindep@"  > ISTEM ; !"
+< 0:t 0:a      "@U.verb.3plindep@" > ISTEM ; !"
 
-LEXICON IndicativeTA
+LEXICON IndicativeT
 
-<  0:i 0:ˈ 0:k     "@U.verb.1sgosgindep@" > TASTEM ; !"
-<  0:i 0:ˈ 0:k 0:a "@U.verb.1sgoplindep@" > TASTEM ; !"
-<  0:k 0:i         "@U.verb.2sg1sgindep@"  > TASTEM ; !"
-<                  "@U.verb.2sg3sgindep@"  > TASTEM ;
-!<              "@U.verb.3sgoindep@"  > TASTEM ;      
-!< 0:i 0:ˈ 0:k "@U.verb.1ploindep@" > TASTEM ;  ! exclusive Pl
-!<              "@U.verb.12ploindep@" > TASTEM ; !"
-!<              "@U.verb.2ploindep@"  > TASTEM ;
-!< 0:t 0:a      "@U.verb.3ploindep@" > TASTEM ;
+<  0:i 0:ˈ 0:k     "@U.verb.1sgosgindep@" > TSTEM ; !"
+<  0:i 0:ˈ 0:k 0:a "@U.verb.1sgoplindep@" > TSTEM ; !"
+<  0:k 0:i         "@U.verb.2sg1sgindep@"  > TSTEM ; !"
+<                  "@U.verb.2sg3sgindep@"  > TSTEM ;
+!<              "@U.verb.3sgoindep@"  > TSTEM ;      
+!< 0:i 0:ˈ 0:k "@U.verb.1ploindep@" > TSTEM ;  ! exclusive Pl
+!<              "@U.verb.12ploindep@" > TSTEM ; !"
+!<              "@U.verb.2ploindep@"  > TSTEM ;
+!< 0:t 0:a      "@U.verb.3ploindep@" > TSTEM ;
 
 
-LEXICON IASTEM
-taxtú ind ;
+LEXICON ISTEM
+taxtú:taxtú ind ;
 
-LEXICON TASTEM
+LEXICON TSTEM
 muˈsúː transind ;
+
+
+
+
+
+
+
