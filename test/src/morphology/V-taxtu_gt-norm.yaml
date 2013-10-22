@@ -14,13 +14,13 @@ Tests:
      taxtú+V+Ind+Impf+Prs+2Sg: taxtúyaˈ
      taxtú+V+Ind+Impf+Prs+3Sg: taxtú
      taxtú+V+Ind+Impf+Prs+1Pl: iˈktaxtuyáːuj
-     taxtú+V+Ind+Impf+Prs+12Pl: taxtúyáːuj
-     taxtú+V+Ind+Impf+Prs+2Pl: taxtúyáːˈtít
+     taxtú+V+Ind+Impf+Prs+12Pl: taxtuyáːuj
+     taxtú+V+Ind+Impf+Prs+2Pl: taxtuyaːˈtít
      taxtú+V+Ind+Impf+Prs+3Pl: tataxtú
      
      taxtú+V+Ind+Impf+Prt+1Sg: xaˈktaxtú
      taxtú+V+Ind+Impf+Prt+2Sg: iˈxtaxtúyaˈ
-     taxtú+V+Ind+Impf+Prt+3Sg: ixtaxtú
+     taxtú+V+Ind+Impf+Prt+3Sg: iˈxtaxtú
      taxtú+V+Ind+Impf+Prt+1Pl: xaˈktaxtuyáːuj
      taxtú+V+Ind+Impf+Prt+12Pl: iˈxtaxtuyáːuj
      taxtú+V+Ind+Impf+Prt+2Pl: iˈxtaxtuyaːˈtít
@@ -34,37 +34,29 @@ Tests:
      taxtú+V+Ind+Impf+Fut+2Pl: nataxtuyaːˈtít
      taxtú+V+Ind+Impf+Fut+3Pl: natataxtú
 
-     taxtú+V+Opt+1Sg: kaˈtaxtú
-     taxtú+V+Opt+2Sg: kataxtúyaˈ
-     taxtú+V+Opt+3Sg: kataxtú
-     taxtú+V+Opt+1Pl: kaˈktaxtuyáːuj
-     taxtú+V+Opt+12Pl: kataxtúyáːuj
-     taxtú+V+Opt+2Pl: kataxtúyáːˈtít
-     taxtú+V+Opt+3Pl: katataxtú
+     taxtú+V+Opt+Impf+1Sg: kaˈtaxtú
+     taxtú+V+Opt+Impf+2Sg: kataxtúyaˈ
+     taxtú+V+Opt+Impf+3Sg: kataxtú
+     taxtú+V+Opt+Impf+1Pl: kaˈktaxtuyáːuj
+     taxtú+V+Opt+Impf+12Pl: kataxtuyáːuj
+     taxtú+V+Opt+Impf+2Pl: kataxtuyaːˈtít
+     taxtú+V+Opt+Impf+3Pl: katataxtú
      
-     taxtú+V+Pot+1Sg: iˈktiˈtaxtú
-     taxtú+V+Pot+2Sg: tiˈtaxtúyaˈ
-     taxtú+V+Pot+3Sg: tiˈtaxtú
-     taxtú+V+Pot+1Pl: iˈktiˈtaxtuyáːuj
-     taxtú+V+Pot+12Pl: tiˈtaxtúyáːuj
-     taxtú+V+Pot+2Pl: tiˈtaxtúyáːˈtít
-     taxtú+V+Pot+3Pl: tiˈtataxtú
+     taxtú+V+Pot+Impf+Prs+1Sg: iˈktiˈtaxtú
+     taxtú+V+Pot+Impf+Prs+2Sg: tiˈtaxtúyaˈ
+     taxtú+V+Pot+Impf+Prs+3Sg: tiˈtaxtú
+     taxtú+V+Pot+Impf+Prs+1Pl: iˈktiˈtaxtuyáːuj
+     taxtú+V+Pot+Impf+Prs+12Pl: tiˈtaxtuyáːuj
+     taxtú+V+Pot+Impf+Prs+2Pl: tiˈtaxtuyaːˈtít
+     taxtú+V+Pot+Impf+Prs+3Pl: tiˈtataxtú
      
-     taxtú+V+Irr+1Sg: xaˈktaxtúlh
-     taxtú+V+Irr+2Sg: iˈxtáxtuˈ
-     taxtú+V+Irr+3Sg: iˈxtaxtúlh
-     taxtú+V+Irr+1Pl: xaˈktaxtúj
-     taxtú+V+Irr+12Pl: iˈxtaxtúj
-     taxtú+V+Irr+2Pl: iˈxtaxtuˈtít
-     taxtú+V+Irr+3Pl: iˈxtataxtúlh
-     
-     taxtú+V+Ind+Imp+1Sg: itaxtú
-     taxtú+V+Ind+Imp+2Sg: taxtúyaˈ
-     taxtú+V+Ind+Imp+3Sg: taxtú
-     taxtú+V+Ind+Imp+1Pl: iˈktaxtuyáːuj
-     taxtú+V+Ind+Imp+12Pl: taxtúyáːuj
-     taxtú+V+Ind+Imp+2Pl: taxtúyáːˈtít
-     taxtú+V+Ind+Imp+3Pl: tataxtú
+     taxtú+V+Irr+Prs+1Sg: xaˈktaxtúlh
+     taxtú+V+Irr+Prs+2Sg: iˈxtáxtuˈ
+     taxtú+V+Irr+Prs+3Sg: iˈxtaxtúlh
+     taxtú+V+Irr+Prs+1Pl: xaˈktaxtúj
+     taxtú+V+Irr+Prs+12Pl: iˈxtaxtúj
+     taxtú+V+Irr+Prs+2Pl: iˈxtaxtuˈtít
+     taxtú+V+Irr+Prs+3Pl: iˈxtataxtúlh
      
 
 
