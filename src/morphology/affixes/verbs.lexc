@@ -7,7 +7,7 @@
 !! !!! Intransitive animate (IA)
 
 LEXICON iind !!= @CODE@ splits in 3 conjugations
-+V+Ind+Prs: present ;
++V+Ind+Impf+Prs: present ;
 
 LEXICON present !!= @CODE@ gives person suffixes
 <  "+1Sg":0 "@U.verb.1sgindep@"  > # ; !"
@@ -26,13 +26,13 @@ LEXICON 1plsuf
 :yáːuj # ;
 
 LEXICON 2plsuf
-:yáːˈtít # ;
+:yaːˈtít # ;
 
 
 
 
 LEXICON transind !!= @CODE@ is not done yet
-+V+Ind+Impf: impf_oc ;
++V+Ind+Impf+Prs: impf_oc ;
 
 
 LEXICON impf_oc
