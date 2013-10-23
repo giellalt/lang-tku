@@ -11,22 +11,22 @@ IndicativeT ;
 
 LEXICON IndicativeI
 
-< 0:i 0:ˈ 0:k "@U.verb.1sgindep@" "@U.verb.prs@" > ISTEM ; !"
-<             "@U.verb.2sgindep@" "@U.verb.prs@" > ISTEM ; !"
-<             "@U.verb.3sgindep@" "@U.verb.prs@" > ISTEM ;  !"    
-< 0:i 0:ˈ 0:k "@U.verb.1plindep@" "@U.verb.prs@" > ISTEM ;  !" exclusive Pl
-<             "@U.verb.12plindep@" "@U.verb.prs@" > ISTEM ; !"
-<             "@U.verb.2plindep@" "@U.verb.prs@" > ISTEM ; !"
-< 0:t 0:a     "@U.verb.3plindep@" "@U.verb.prs@" > ISTEM ; !"
+< 0:i 0:ˈ 0:k "@U.verb.1sgindep@" "@U.tense.prs@" > ISTEM ; !"
+<             "@U.verb.2sgindep@" "@U.tense.prs@" > ISTEM ; !"
+<             "@U.verb.3sgindep@" "@U.tense.prs@" > ISTEM ;  !"    
+< 0:i 0:ˈ 0:k "@U.verb.1plindep@" "@U.tense.prs@" > ISTEM ;  !" exclusive Pl
+<             "@U.verb.12plindep@" "@U.tense.prs@" > ISTEM ; !"
+<             "@U.verb.2plindep@" "@U.tense.prs@" > ISTEM ; !"
+< 0:t 0:a     "@U.verb.3plindep@" "@U.tense.prs@" > ISTEM ; !"
 
 
-< 0:x 0:a 0:ˈ 0:k "@U.verb.1sgindep@" "@U.verb.prt@" > ISTEM ; !"
-< 0:i 0:' 0:x     "@U.verb.2sgindep@" "@U.verb.prt@" > ISTEM ; !"
-< 0:i 0:x         "@U.verb.3sgindep@" "@U.verb.prt@" > ISTEM ;  !"    
-< 0:x 0:a 0:ˈ 0:k "@U.verb.1plindep@" "@U.verb.prt@" > ISTEM ;  !" exclusive Pl
-< 0:i 0:' 0:x     "@U.verb.12plindep@" "@U.verb.prt@" > ISTEM ; !"
-< 0:i 0:' 0:x      "@U.verb.2plindep@" "@U.verb.prt@" > ISTEM ; !"
-< 0:i 0:' 0:x 0:t 0:a  "@U.verb.3plindep@" "@U.verb.prt@" > ISTEM ; !"
+< 0:x 0:a 0:ˈ 0:k "@U.verb.1sgindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:' 0:x     "@U.verb.2sgindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:x         "@U.verb.3sgindep@" "@U.tense.prt@" > ISTEM ;  !"    
+< 0:x 0:a 0:ˈ 0:k "@U.verb.1plindep@" "@U.tense.prt@" > ISTEM ;  !" exclusive Pl
+< 0:i 0:' 0:x     "@U.verb.12plindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:' 0:x      "@U.verb.2plindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:' 0:x 0:t 0:a  "@U.verb.3plindep@" "@U.tense.prt@" > ISTEM ; !"
 
 LEXICON IndicativeT
 
