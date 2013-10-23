@@ -8,7 +8,7 @@ Alphabet
  ˈ ! Uvular vowels
   
  %>:0 ! suffix border
-
+ %^SS:0 ! 2Sg stress shift
  ;
 
 Sets
@@ -17,19 +17,28 @@ Sets
        A E I O U Á É Í Ó Ú  
        ː ˈ ;
 
- Cns = b c d f g h j k l m n p q r s t v w x z ; 
+ Cns = b c d f g h j k l m n p q r s t v w x y z ; 
  Nas = m n ;
  NonNas = b c d f g h j k l p q r s t v w x z ;
  StressedVowel = á é í ó ú ;
 
- Dummy = %> ;
+ Dummy = %> %^SS ;
 
 
 !! !!!Rules
 
 Rules
-"U Stress Rule"
-ú:u <=> _ Cns* %>: StressedVowel ;
+"Stress Suffix Rule"
+Vx:Vy <=> _ ?* [ StressedVowel | %^SS:0 ] ;
+	where Vx in ( á é í ó ú ) 
+	      Vy in ( a e i o u ) 
+        matched ;
+
+"Stress Shift 2sg Rule"
+Vx:Vy <=> _ Cns* StressedVowel %>: %^SS:0 ;
+	where Vy in ( á é í ó ú )
+              Vx in ( a e i o u )
+        matched ;
 
 "Dummy rule"
 !! __@RULENAME@__ to be deleted
