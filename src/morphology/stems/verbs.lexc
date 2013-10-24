@@ -21,12 +21,12 @@ LEXICON IndicativeI
 
 
 < 0:x 0:a 0:ˈ 0:k "@U.verb.1sgindep@" "@U.tense.prt@" > ISTEM ; !"
-< 0:i 0:' 0:x     "@U.verb.2sgindep@" "@U.tense.prt@" > ISTEM ; !"
-< 0:i 0:x         "@U.verb.3sgindep@" "@U.tense.prt@" > ISTEM ;  !"    
+< 0:i 0:ˈ 0:x     "@U.verb.2sgindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:ˈ 0:x         "@U.verb.3sgindep@" "@U.tense.prt@" > ISTEM ;  !"    
 < 0:x 0:a 0:ˈ 0:k "@U.verb.1plindep@" "@U.tense.prt@" > ISTEM ;  !" exclusive Pl
-< 0:i 0:' 0:x     "@U.verb.12plindep@" "@U.tense.prt@" > ISTEM ; !"
-< 0:i 0:' 0:x      "@U.verb.2plindep@" "@U.tense.prt@" > ISTEM ; !"
-< 0:i 0:' 0:x 0:t 0:a  "@U.verb.3plindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:ˈ 0:x     "@U.verb.12plindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:ˈ 0:x      "@U.verb.2plindep@" "@U.tense.prt@" > ISTEM ; !"
+< 0:i 0:ˈ 0:x 0:t 0:a  "@U.verb.3plindep@" "@U.tense.prt@" > ISTEM ; !"
 
 LEXICON IndicativeT
 
@@ -34,11 +34,11 @@ LEXICON IndicativeT
 <  0:i 0:ˈ 0:k 0:a "@U.verb.1sgoplindep@" > TSTEM ; !"
 <  0:k 0:i         "@U.verb.2sg1sgindep@"  > TSTEM ; !"
 <                  "@U.verb.2sg3sgindep@"  > TSTEM ;
-!<              "@U.verb.3sgoindep@"  > TSTEM ;      
-!< 0:i 0:ˈ 0:k "@U.verb.1ploindep@" > TSTEM ;  ! exclusive Pl
-!<              "@U.verb.12ploindep@" > TSTEM ; !"
-!<              "@U.verb.2ploindep@"  > TSTEM ;
-!< 0:t 0:a      "@U.verb.3ploindep@" > TSTEM ;
+<              "@U.verb.3sgoindep@"  > TSTEM ;      
+< 0:i 0:ˈ 0:k "@U.verb.1ploindep@" > TSTEM ;  ! exclusive Pl
+<              "@U.verb.12ploindep@" > TSTEM ; !"
+<              "@U.verb.2ploindep@"  > TSTEM ;
+< 0:t 0:a      "@U.verb.3ploindep@" > TSTEM ;
 
 
 LEXICON ISTEM
