@@ -1,4 +1,4 @@
-
+	
 ! ========================================================================== !
 !!                           !!! Totanac verb stems                           
 ! ========================================================================== !
@@ -33,16 +33,17 @@ LEXICON IndicativeT
 <  0:i 0:ˈ 0:k     "@U.verb.1sgosgindep@" > TSTEM ; !"
 <  0:i 0:ˈ 0:k 0:a "@U.verb.1sgoplindep@" > TSTEM ; !"
 <  0:k 0:i         "@U.verb.2sg1sgindep@"  > TSTEM ; !"
-<                  "@U.verb.2sg3sgindep@"  > TSTEM ;
-<              "@U.verb.3sgoindep@"  > TSTEM ;      
+<                  "@U.verb.2sg3sgindep@"  > TSTEM ; !"
+<              "@U.verb.3sgoindep@"  > TSTEM ;   !"   
 < 0:i 0:ˈ 0:k "@U.verb.1ploindep@" > TSTEM ;  ! exclusive Pl
 <              "@U.verb.12ploindep@" > TSTEM ; !"
-<              "@U.verb.2ploindep@"  > TSTEM ;
-< 0:t 0:a      "@U.verb.3ploindep@" > TSTEM ;
+<              "@U.verb.2ploindep@"  > TSTEM ; !"
+< 0:t 0:a      "@U.verb.3ploindep@" > TSTEM ; !"
 
 
 LEXICON ISTEM
 taxtú:taxtú iind ;
+tojó iind ;
 
 LEXICON TSTEM
 muˈsúː transind ;
