@@ -9,6 +9,7 @@
 LEXICON iind !!= @CODE@ splits in 3 conjugations
 +V+Ind+Impf+Prs: iprs ;
 +V+Ind+Impf+Prt: iprt ;
++V+Ind+Impf+Fut: ifut ;
 
 LEXICON iprs
 @U.tense.prs@ indimpf ;
@@ -16,6 +17,8 @@ LEXICON iprs
 LEXICON iprt
 @U.tense.prt@ indimpf ;
 
+LEXICON ifut
+@U.tense.fut@ indimpf ;
 
 LEXICON indimpf !!= @CODE@ gives person suffixes
 <  "+1Sg":0 "@U.verb.1sgindep@"  > # ; !"
