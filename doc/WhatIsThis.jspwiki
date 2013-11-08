@@ -2,7 +2,9 @@
 This is a grammatical analyser for Upper Necaxa Totonac.
 
 
-Almost nothing has been done to it yet, except parts of a verb paradigm.
+Almost nothing has been done to it yet, except parts of the verb paradigms
+for transitive and intransitive verbs.
+
 Otherwise it just contain dummy files.
 
 -----
