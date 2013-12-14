@@ -16,8 +16,8 @@
   </info>
   <acceptor type="general" id="acceptor.default.hfst">
     <title>Giellatekno/Divvun/UiT dictionary Upper Necaxa Totonac</title>
-    <description>Giellatekno/Divvun/UiT dictionary for Upper Necaxa Totonac
-    compiled for HFST.</description>
+    <description>Giellatekno/Divvun/UiT dictionary for
+    Upper Necaxa Totonac compiled for HFST.</description>
   </acceptor>
   <errmodel id="errmodel.default.hfst">
     <title>Levenshtein edit distance transducer</title>
