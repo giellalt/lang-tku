@@ -29,7 +29,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! POS
 
-+Guess 
++Guess      !!= * @CODE@ 
 +N	        !!= * @CODE@ 
 +V	        !!= * @CODE@ 
 +A	        !!= * @CODE@ 
@@ -107,7 +107,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 %> 		 !!= * @CODE@ suffix border
-%^SS		 !! 2Sg Stress shift
+%^SS		 !! 2Sg Stress shift ^SS
 
 +Err/Sub !!= * @CODE@ tag for substandard forms
 
@@ -120,62 +120,63 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! !Intransitives
 
-@U.verb.1sgindep@ 
-@U.verb.2sgindep@ 
-@U.verb.3sgindep@ 
-@U.verb.3osgindep@ ! delete?
-@U.verb.3isgindep@ ! delete?
-@U.verb.1plindep@ 
-@U.verb.12plindep@ 
-@U.verb.2plindep@ 
-@U.verb.3plindep@ 
+@U.verb.1sgindep@ 	!!= * @CODE@ 
+@U.verb.2sgindep@ 	!!= * @CODE@ 
+@U.verb.3sgindep@ 	!!= * @CODE@ 
+@U.verb.3osgindep@  !!= * @CODE@ delete?
+@U.verb.3isgindep@  !!= * @CODE@  delete?
+@U.verb.1plindep@ 	!!= * @CODE@ 
+@U.verb.12plindep@ 	!!= * @CODE@ 
+@U.verb.2plindep@ 	!!= * @CODE@ 
+@U.verb.3plindep@ 	!!= * @CODE@ 
 
-@U.verb.1sgsbj@ 
-@U.verb.2sgsbj@ 
-@U.verb.3sgsbj@ 
-@U.verb.3osgsbj@ !delete ?
-@U.verb.3isgsbj@ ! delete?
-@U.verb.1plsbj@ 
-@U.verb.12plsbj@ 
-@U.verb.2plsbj@ 
-@U.verb.3plsbj@ 
+@U.verb.1sgsbj@ 	!!= * @CODE@ 
+@U.verb.2sgsbj@ 	!!= * @CODE@ 
+@U.verb.3sgsbj@ 	!!= * @CODE@ 
+@U.verb.3osgsbj@  	!!= * @CODE@ delete ?
+@U.verb.3isgsbj@    !!= * @CODE@  delete?
+@U.verb.1plsbj@ 	!!= * @CODE@ 
+@U.verb.12plsbj@ 	!!= * @CODE@ 
+@U.verb.2plsbj@ 	!!= * @CODE@ 
+@U.verb.3plsbj@ 	!!= * @CODE@ 
 
-@U.verb.2sgimp@
-@U.verb.1plimp@
-@U.verb.2plimp@
+@U.verb.2sgimp@		!!= * @CODE@ 
+@U.verb.1plimp@		!!= * @CODE@ 
+@U.verb.2plimp@		!!= * @CODE@ 
 
 !! !Transitives
 
-@U.verb.1sgosgindep@ 
-@U.verb.1sgoplindep@ 
+@U.verb.1sgosgindep@  	!!= * @CODE@
+@U.verb.1sgoplindep@  	!!= * @CODE@
 
-@U.verb.2sg1sgindep@ 
-@U.verb.2sg3sgindep@ 
-@U.verb.2sgoplindep@ 
+@U.verb.2sg1sgindep@  	!!= * @CODE@
+@U.verb.2sg3sgindep@  	!!= * @CODE@
+@U.verb.2sgoplindep@  	!!= * @CODE@
 
-@U.verb.3sgosgindep@ 
-@U.verb.3sgoplindep@ 
- @U.verb.1ploindep@ 
-@U.verb.12ploindep@ 
-@U.verb.2ploindep@ 
-@U.verb.3ploindep@ 
+@U.verb.3sgosgindep@  	!!= * @CODE@
+@U.verb.3sgoplindep@  	!!= * @CODE@
 
-@U.tense.prs@
-@U.tense.prt@
+@U.verb.1ploindep@ 	  	!!= * @CODE@
+@U.verb.12ploindep@   	!!= * @CODE@
+@U.verb.2ploindep@ 	  	!!= * @CODE@
+@U.verb.3ploindep@ 	  	!!= * @CODE@
 
-!! !Nouns
+@U.tense.prs@		  	!!= * @CODE@
+@U.tense.prt@		  	!!= * @CODE@
 
-@U.noun.1sg@
-@U.noun.2sg@
-@U.noun.3sg@
-@U.noun.3isg@
-@U.noun.3osg@
-@U.noun.1pl@
-@U.noun.12pl@
-@U.noun.2pl@
-@U.noun.3pl@
+!! !Nouns 
 
-@U.noun.abs@ 
+@U.noun.1sg@		  	!!= * @CODE@
+@U.noun.2sg@		  	!!= * @CODE@
+@U.noun.3sg@		  	!!= * @CODE@
+@U.noun.3isg@		  	!!= * @CODE@
+@U.noun.3osg@		  	!!= * @CODE@
+@U.noun.1pl@		  	!!= * @CODE@
+@U.noun.12pl@		  	!!= * @CODE@
+@U.noun.2pl@		  	!!= * @CODE@
+@U.noun.3pl@		  	!!= * @CODE@
+
+@U.noun.abs@ 		  	!!= * @CODE@
 
 ! Key lexicon
 
