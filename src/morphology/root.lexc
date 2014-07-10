@@ -13,10 +13,10 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ========================================================================== !
-! !!            !!!Upper Necaxa Totonac morphological analyser                      
+! !!            !!!Upper Necaxa Totonac morphological analyser
 ! ========================================================================== !
 !! INTRODUCTION TO THE MORPHOLOGICAL ANALYSER OF Upper Necaxa Totonac.
- 
+
 
 
 Multichar_Symbols  !!≈ !!!@CODE@ definitions
@@ -29,27 +29,27 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 !! POS
 
-+Guess      !!= * @CODE@ 
-+N	        !!= * @CODE@ 
-+V	        !!= * @CODE@ 
-+A	        !!= * @CODE@ 
++Guess      !!= * @CODE@
++N	        !!= * @CODE@
++V	        !!= * @CODE@
++A	        !!= * @CODE@
 
-+Adv        !!= * @CODE@ 
-+CC	        !!= * @CODE@ 
-+CS	        !!= * @CODE@ 
-+Interj     !!= * @CODE@ 
-+Pron       !!= * @CODE@ 
-+Num        !!= * @CODE@ 
++Adv        !!= * @CODE@
++CC	        !!= * @CODE@
++CS	        !!= * @CODE@
++Interj     !!= * @CODE@
++Pron       !!= * @CODE@
++Num        !!= * @CODE@
 
-+Loc        !!= * @CODE@ 
++Loc        !!= * @CODE@
 
 !! Verbal MSP
-+Prs  !!= * @CODE@ 
-+Fut  !!= * @CODE@ 
-+Prt  !!= * @CODE@ 
-+Prf  !!= * @CODE@ 
++Prs  !!= * @CODE@
++Fut  !!= * @CODE@
++Prt  !!= * @CODE@
++Prf  !!= * @CODE@
 
-+Ind  !!= * @CODE@ 
++Ind  !!= * @CODE@
 +Imp  !!= * @CODE@ Imperative
 +Opt  !!= * @CODE@ Optative,
 +Irr  !!= * @CODE@ Irrealis,
@@ -114,35 +114,35 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 
 
-!! !! Flagdiacritics 
+!! !! Flagdiacritics
 
 !! These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
 !! !Intransitives
 
-@U.verb.1sgindep@ 	!!= * @CODE@ 
-@U.verb.2sgindep@ 	!!= * @CODE@ 
-@U.verb.3sgindep@ 	!!= * @CODE@ 
+@U.verb.1sgindep@ 	!!= * @CODE@
+@U.verb.2sgindep@ 	!!= * @CODE@
+@U.verb.3sgindep@ 	!!= * @CODE@
 @U.verb.3osgindep@  !!= * @CODE@ delete?
 @U.verb.3isgindep@  !!= * @CODE@  delete?
-@U.verb.1plindep@ 	!!= * @CODE@ 
-@U.verb.12plindep@ 	!!= * @CODE@ 
-@U.verb.2plindep@ 	!!= * @CODE@ 
-@U.verb.3plindep@ 	!!= * @CODE@ 
+@U.verb.1plindep@ 	!!= * @CODE@
+@U.verb.12plindep@ 	!!= * @CODE@
+@U.verb.2plindep@ 	!!= * @CODE@
+@U.verb.3plindep@ 	!!= * @CODE@
 
-@U.verb.1sgsbj@ 	!!= * @CODE@ 
-@U.verb.2sgsbj@ 	!!= * @CODE@ 
-@U.verb.3sgsbj@ 	!!= * @CODE@ 
+@U.verb.1sgsbj@ 	!!= * @CODE@
+@U.verb.2sgsbj@ 	!!= * @CODE@
+@U.verb.3sgsbj@ 	!!= * @CODE@
 @U.verb.3osgsbj@  	!!= * @CODE@ delete ?
 @U.verb.3isgsbj@    !!= * @CODE@  delete?
-@U.verb.1plsbj@ 	!!= * @CODE@ 
-@U.verb.12plsbj@ 	!!= * @CODE@ 
-@U.verb.2plsbj@ 	!!= * @CODE@ 
-@U.verb.3plsbj@ 	!!= * @CODE@ 
+@U.verb.1plsbj@ 	!!= * @CODE@
+@U.verb.12plsbj@ 	!!= * @CODE@
+@U.verb.2plsbj@ 	!!= * @CODE@
+@U.verb.3plsbj@ 	!!= * @CODE@
 
-@U.verb.2sgimp@		!!= * @CODE@ 
-@U.verb.1plimp@		!!= * @CODE@ 
-@U.verb.2plimp@		!!= * @CODE@ 
+@U.verb.2sgimp@		!!= * @CODE@
+@U.verb.1plimp@		!!= * @CODE@
+@U.verb.2plimp@		!!= * @CODE@
 
 !! !Transitives
 
@@ -164,7 +164,7 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 @U.tense.prs@		  	!!= * @CODE@
 @U.tense.prt@		  	!!= * @CODE@
 
-!! !Nouns 
+!! !Nouns
 
 @U.noun.1sg@		  	!!= * @CODE@
 @U.noun.2sg@		  	!!= * @CODE@
@@ -182,9 +182,9 @@ Multichar_Symbols  !!≈ !!!@CODE@ definitions
 
 LEXICON Root 		 !!=  @CODE@ is where it all starts
 
-!Noun ;	            
-Verb ;	             !!= * @CODE@ 
-!Pronoun ;       
-!Punctuation ;        !!= * @CODE@ 
+!Noun ;
+Verb ;	             !!= * @CODE@
+!Pronoun ;
+!Punctuation ;        !!= * @CODE@
 !Particles ;
 
