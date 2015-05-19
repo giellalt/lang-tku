@@ -13,7 +13,7 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ========================================================================== !
-! !!            !!!Upper Necaxa Totonac morphological analyser
+!!              !!!Upper Necaxa Totonac morphological analyser
 ! ========================================================================== !
 !! INTRODUCTION TO THE MORPHOLOGICAL ANALYSER OF Upper Necaxa Totonac.
 
@@ -212,6 +212,6 @@ LEXICON Root 		 !!=  @CODE@ is where it all starts
 !Noun ;
 Verbs ;	             !!= * @CODE@
 !Pronoun ;
-!Punctuation ;        !!= * @CODE@
+!Punctuation ;     
 !Particles ;
 
