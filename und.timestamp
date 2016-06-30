@@ -1,4 +1,4 @@
-$Rev: 136448 $
+$Rev$
 Fixed a bug in speller builds introduced lately - missing hfst target.
 
 r136431:
