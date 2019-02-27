@@ -210,6 +210,7 @@ LEXICON Root 		 !!=  @CODE@ is where it all starts
 !Noun ;
 Verbs ;	             !!= * @CODE@
 !Pronoun ;
-!Punctuation ;     
+Punctuation ;
+Symbols     ;
 !Particles ;
 
