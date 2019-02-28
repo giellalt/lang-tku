@@ -109,6 +109,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 +Err/Orth !!= * @CODE@ tag for substandard forms
 
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 
 
 
