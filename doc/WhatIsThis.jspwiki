@@ -10,7 +10,7 @@ Otherwise it just contain dummy files.
 ----
 
 The structure of the source file catalogue is the same for all
-the languages, it is documented [here|../../infra/infraremake/NewinfraCatalogues.html].
+the languages, it is documented [here|/infra/infraremake/NewinfraCatalogues.html].
 
 
 
