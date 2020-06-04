@@ -1,0 +1,9 @@
+name = "Upper Necaxa Totonac"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.tku"
+
+[windows]
+system_product_code = "C06B02FF-6349-4A62-83B8-D07068489B88"
+msoffice_product_code = "6A910FE7-2F18-47A0-9DE0-7312DCF81314"
