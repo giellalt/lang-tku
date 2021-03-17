@@ -1,15 +1,9 @@
 [What is this?|WhatIsThis.html]
 
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/tku/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/tku/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/tku/src/syntax] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/tku/src/phonology/tku-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/tku/test/src/gt-norm-yamls/]
 
+ 
 
 !!! Project pages
 
