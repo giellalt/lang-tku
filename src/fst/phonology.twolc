@@ -25,7 +25,7 @@ Sets
  Dummy = %> %^SS ;
 
 
-!! !!!Rules
+!! # Rules
 
 Rules
 "Stress Suffix Rule"
@@ -41,7 +41,7 @@ Vx:Vy <=> _ Cns* StressedVowel %>: %^SS:0 ;
         matched ;
 
 "Dummy rule"
-!! __@RULENAME@__ to be deleted
+!! **@RULENAME@** to be deleted
  Vx:0 <=> _ %>:0 :Vow ;
  	where Vx in ( a e i o u ) ;
 
