@@ -1,10 +1,10 @@
 
 ! ========================================================================== !
-!!                           !!! Totonac verb morphology                           
+!! Totonac verb morphology                           
 ! ========================================================================== !
 
 
-!! !!! Intransitive animate (IA)
+!! Intransitive animate (IA)
 
 LEXICON iind !!= @CODE@ splits in 3 conjugations
 +V+Ind+Impf+Prs: iprs ;
