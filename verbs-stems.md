@@ -1,0 +1,21 @@
+
+Totanac verb stems                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

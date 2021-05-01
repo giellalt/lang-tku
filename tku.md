@@ -1,3 +1,68 @@
+Noun inflection
+The Upper Necaxa Totonac language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Upper Necaxa Totonac language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Upper Necaxa Totonac language adjectives compare.
+
+
+
+
+Totonac verb morphology                           
+
+
+Intransitive animate (IA)
+
+ LEXICON iind  splits in 3 conjugations
+
+
+
+
+ LEXICON indimpf  gives person suffixes
+
+
+
+
+
+
+ LEXICON transind  is not done yet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Rules
+
+
+
+**Dummy rule** to be deleted
+
+
+
 
 # Upper Necaxa Totonac morphological analyser
 INTRODUCTION TO THE MORPHOLOGICAL ANALYSER OF Upper Necaxa Totonac.
@@ -193,6 +258,102 @@ given the proper use of these flags.
   LEXICON Root 		  is where it all starts
 
  * Verbs ;	             
+
+Nouns
+Nouns in the Upper Necaxa Totonac language are things.
+
+
+Prefixes
+Prefixes in the Upper Necaxa Totonac language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Upper Necaxa Totonac language are references to things.
+
+
+Adjectives
+Adjectives in the Upper Necaxa Totonac language describe things.
+
+
+
+Totanac verb stems                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Numerals
+Numerals in the Upper Necaxa Totonac language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
