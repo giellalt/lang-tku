@@ -1,11 +1,58 @@
-Noun inflection
-The Upper Necaxa Totonac language nouns inflect in cases.
+Nouns
+Nouns in the Upper Necaxa Totonac language are things.
+
+
+Numerals
+Numerals in the Upper Necaxa Totonac language are numbers.
 
 
 
-Proper noun inflection
-The Upper Necaxa Totonac language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Totanac verb stems                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prefixes
+Prefixes in the Upper Necaxa Totonac language are bound to beginning of other words.
+
+
+
+Adjectives
+Adjectives in the Upper Necaxa Totonac language describe things.
+
+
+Pronouns
+Pronouns in the Upper Necaxa Totonac language are references to things.
+
+
+
+
+
+
+
+
+
+
+# Rules
+
+
+
+**Dummy rule** to be deleted
 
 
 
@@ -16,8 +63,14 @@ nouns, but with a colon (':') as separator.
 
 
 
-Adjective inflection
-The Upper Necaxa Totonac language adjectives compare.
+Noun inflection
+The Upper Necaxa Totonac language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Upper Necaxa Totonac language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
 
 
@@ -47,19 +100,8 @@ Intransitive animate (IA)
 
 
 
-
-
-
-
-
-
-
-
-# Rules
-
-
-
-**Dummy rule** to be deleted
+Adjective inflection
+The Upper Necaxa Totonac language adjectives compare.
 
 
 
@@ -259,46 +301,20 @@ given the proper use of these flags.
 
  * Verbs ;	             
 
-Nouns
-Nouns in the Upper Necaxa Totonac language are things.
-
-
-Prefixes
-Prefixes in the Upper Necaxa Totonac language are bound to beginning of other words.
 
 
 
-Pronouns
-Pronouns in the Upper Necaxa Totonac language are references to things.
+We describe here how abbreviations are in Upper Necaxa Totonac are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Adjectives
-Adjectives in the Upper Necaxa Totonac language describe things.
-
-
-
-Totanac verb stems                           
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Numerals
-Numerals in the Upper Necaxa Totonac language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -354,20 +370,4 @@ Numerals in the Upper Necaxa Totonac language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Upper Necaxa Totonac are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
