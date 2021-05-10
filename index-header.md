@@ -1,7 +1,7 @@
 # Upper Necaxa Totonac documentation
 
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
-[![License](https://img.shields.io/github/license/giellalt/lang-tku)](https://raw.githubusercontent.com/giellalt/lang-tku/develop/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tku)](https://raw.githubusercontent.com/giellalt/lang-tku/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tku)](https://github.com/giellalt/lang-tku/issues)
 [![Build status](https://github.com/giellalt/lang-tku/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tku/actions)
 
