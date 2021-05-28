@@ -605,82 +605,6 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Upper Necaxa Totonac language are things.
-
-
-Numerals
-Numerals in the Upper Necaxa Totonac language are numbers.
-
-
-
-Totanac verb stems                           
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Prefixes
-Prefixes in the Upper Necaxa Totonac language are bound to beginning of other words.
-
-
-
-Adjectives
-Adjectives in the Upper Necaxa Totonac language describe things.
-
-
-Pronouns
-Pronouns in the Upper Necaxa Totonac language are references to things.
-
-
-
-
-
-
-
-
-
-
-# Rules
-
-
-
-**Dummy rule** to be deleted
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-Noun inflection
-The Upper Necaxa Totonac language nouns inflect in cases.
-
-
-
-Proper noun inflection
-The Upper Necaxa Totonac language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
 
 Totonac verb morphology                           
 
@@ -707,9 +631,85 @@ Intransitive animate (IA)
 
 
 
+Proper noun inflection
+The Upper Necaxa Totonac language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
 Adjective inflection
 The Upper Necaxa Totonac language adjectives compare.
 
+
+
+Noun inflection
+The Upper Necaxa Totonac language nouns inflect in cases.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Rules
+
+
+
+**Dummy rule** to be deleted
+
+
+
+
+Totanac verb stems                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pronouns
+Pronouns in the Upper Necaxa Totonac language are references to things.
+
+
+Numerals
+Numerals in the Upper Necaxa Totonac language are numbers.
+
+
+Adjectives
+Adjectives in the Upper Necaxa Totonac language describe things.
+
+
+Prefixes
+Prefixes in the Upper Necaxa Totonac language are bound to beginning of other words.
+
+
+
+Nouns
+Nouns in the Upper Necaxa Totonac language are things.
 
 
 
@@ -911,22 +911,6 @@ given the proper use of these flags.
 
 
 
-We describe here how abbreviations are in Upper Necaxa Totonac are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -977,6 +961,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Upper Necaxa Totonac are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
