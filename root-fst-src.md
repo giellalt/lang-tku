@@ -194,3 +194,5 @@ given the proper use of these flags.
 
  * Verbs ;	             
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-tku/blob/main/../src/fst/root.lexc)</small>
