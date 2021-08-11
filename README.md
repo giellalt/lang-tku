@@ -3,7 +3,7 @@ The Upper Necaxa Totonac morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-tku)](https://github.com/giellalt/lang-tku/issues)
 [![Build Status](https://github.com/giellalt/lang-tku/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tku/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-tku)](https://raw.githubusercontent.com/giellalt/lang-tku/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-tku)](https://github.com/giellalt/lang-tku/blob/main/LICENSE)
 
 This repository contains finite state source files for the Upper Necaxa Totonac language,
 for building morphological analysers, proofing tools
