@@ -5,7 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tku)](https://github.com/giellalt/lang-tku/issues)
 [![Build status](https://github.com/giellalt/lang-tku/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tku/actions)
 
-This page documents the work on the **Upper Necaxa Totonac language model**. 
+This page documents the work on the **Upper Necaxa Totonac language model**. Almost nothing has been done to it yet, except parts of the verb paradigms
+for transitive and intransitive verbs.
 
 # Project documentation
 
