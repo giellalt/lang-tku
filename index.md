@@ -10,6 +10,7 @@ for transitive and intransitive verbs.
 
 # Project documentation
 
+* [Alberta Language Technology Lab|http://altlab.artsrn.ualberta.ca/]
 * Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
 
 # In-source documentation
