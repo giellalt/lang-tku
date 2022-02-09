@@ -44,7 +44,6 @@ Verbal MSP
 * +Pfv    Perfective
 * +Prog    Progressive
 
-
 * +1Sg     first singular
 * +2Sg     etc
 * +3Sg    
@@ -88,15 +87,12 @@ Nominal MSP
 * +Px2Pl	 
 * +Px3Pl	 
 
-
 * %> 		  suffix border
 2Sg Stress shift ^SS
 
 * +Err/Orth  tag for substandard forms
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
-
-
 
 ## Flag diacritics
 
@@ -189,10 +185,13 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
-
  LEXICON Root 		  is where it all starts
 
 * Verbs ;	             
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-tku/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-tku/blob/main/src/fst/root.lexc)</small>
+
+---
+
