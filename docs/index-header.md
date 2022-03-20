@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-tku)](https://github.com/giellalt/lang-tku/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-tku)](https://github.com/giellalt/lang-tku/issues)
-[![Build status](https://github.com/giellalt/lang-tku/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-tku/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-tku/main/badge.svg)](https://github.com/giellalt/lang-tku/actions)
 
 This page documents the work on the **Upper Necaxa Totonac language model**. Almost nothing has been done to it yet, except parts of the verb paradigms
 for transitive and intransitive verbs.
