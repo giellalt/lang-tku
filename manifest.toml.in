@@ -1,4 +1,4 @@
-name = "Upper Necaxa Totonac"
+name = "@GLANGUAGE@"
 version = "@SPELLERVERSION@"
 
 # Name of the speller package in various languages.
